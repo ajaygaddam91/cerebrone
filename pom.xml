@@ -59,12 +59,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://3.87.229.243:8081/repository/first-repo/</url>
+            <url>http://44.205.246.59:8081/repository/first-repo/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://3.87.229.243:8081/repository/first-snapshot/</url>
+            <url>http://44.205.246.59:8081/repository/first-snapshot/</url>
         </snapshotRepository>
 	</distributionManagement>
 
