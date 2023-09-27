@@ -55,19 +55,6 @@
 			</exclusions>
 		</dependency>
 	</dependencies>
-	<distributionManagement>
-        <repository>
-            <id>deployment</id>
-            <name>Internal Releases</name>
-            <url>http://44.205.246.59:8081/repository/first-repo/</url>
-        </repository>
-        <snapshotRepository>
-            <id>deployment</id>
-            <name>Internal Snapshot Releases</name>
-            <url>http://44.205.246.59:8081/repository/first-snapshot/</url>
-        </snapshotRepository>
-	</distributionManagement>
-
 	<build>
 		<plugins>
 			<plugin>
